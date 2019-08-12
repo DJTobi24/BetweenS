@@ -3,7 +3,7 @@
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>S-Control System</title>
+    <title>between-Control System</title>
 	<!-- BOOTSTRAP STYLES-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FONTAWESOME STYLES-->
@@ -26,12 +26,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">S - Control</a>
+                <a class="navbar-brand" href="index.html">Between - Control</a>
             </div>
   <div style="color: white;
 padding: 15px 50px 5px 50px;
 float: right;
-font-size: 16px;"> Berlin seid ihr gut drauf &nbsp; <a href="#" class="btn btn-warning square-btn-adjust">Öm</a> </div>
+font-size: 16px;"> Berlin seid ihr gut drauf &nbsp; <a href="#" class="btn btn-warning square-btn-adjust">Öm joa</a> </div>
         </nav>
            <!-- /. NAV TOP  -->
                 <nav class="navbar-default navbar-side" role="navigation">
