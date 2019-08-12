@@ -136,6 +136,28 @@ text-align: center;
 font-size: 40px;
 }
 
+.main-luefteran {
+background: #3cbd8c;
+color: #FFFFFF;
+font-size: 16px;
+font-weight: 500;
+text-align: center;
+}
+.main-luefteran .text-temp {
+font-size: 40px;
+}
+
+.main-luefteraus {
+background: #db465d;
+color: #FFFFFF;
+font-size: 16px;
+font-weight: 500;
+text-align: center;
+}
+.main-luefteraus .text-temp {
+font-size: 40px;
+}
+
 .main-temp-back1 {
 background: #8702A8;
 color: #FFFFFF;

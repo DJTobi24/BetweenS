@@ -149,6 +149,57 @@ font-size: 16px;"> Berlin seid ihr gut drauf &nbsp; <a href="#" class="btn btn-w
 
                 </div>
                  <!-- /. ROW  -->
+                 <!-- /. ROW  -->
+                <div class="row">
+
+                  <div class="col-md-3 col-sm-12 col-xs-12 ">
+                    <div class="panel ">
+                      <div class="<?php echo "$luefteran"; ?>">
+                        <div class="panel-body">
+                          <div class="row">
+                            <div class="col-xs-6"> <i class="fas fa-fan fa-3x"></i> <br>Lüfter 1 </div>
+                            <div class="col-xs-6">
+                              <div class="text-temp"> <?php sleep(1); echo "$luefter1"; ?> </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-sm-12 col-xs-12 ">
+                    <div class="panel ">
+                      <div class="<?php echo "$luefteraus"; ?>">
+                        <div class="panel-body">
+                          <div class="row">
+                            <div class="col-xs-6"> <i class="fas fa-fan fa-3x"></i> <br>Lüfter 2</div>
+                            <div class="col-xs-6">
+                              <div class="text-temp"> <?php sleep(1); echo "$luefter2"; ?> </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-sm-12 col-xs-12 ">
+                    <div class="panel ">
+                      <div class="<?php echo "$luefteran"; ?>">
+                        <div class="panel-body">
+                          <div class="row">
+                            <div class="col-xs-6"> <i class="fas fa-fan fa-3x"></i><br>Lüfter 3</div>
+                            <div class="col-xs-6">
+                              <div class="text-temp"> <?php sleep(1); echo "$luefter3"; ?> </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                </div>
+                 <!-- /. ROW  -->
+
     </div>
              <!-- /. PAGE INNER  -->
             </div>
