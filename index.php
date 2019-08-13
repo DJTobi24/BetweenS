@@ -122,6 +122,34 @@ font-size: 16px;"> Berlin seid ihr gut drauf &nbsp; <a href="#" class="btn btn-w
           </div>
         </div>
     </div>
+    <div class="col-md-3 col-sm-12 col-xs-12 ">
+      <div class="panel ">
+        <div class="main-temp-back1">
+          <div class="panel-body">
+            <div class="row">
+              <div class="col-xs-6"> <i class="fas fa-thermometer-three-quarters fa-3x"></i> <br>Außen </div>
+              <div class="col-xs-6">
+                <div class="text-temp"> <?php sleep(1); echo "$temppausen" . "$temp"; ?> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-12 col-xs-12 ">
+      <div class="panel ">
+        <div class="main-temp-back1">
+          <div class="panel-body">
+            <div class="row">
+              <div class="col-xs-6"> <i class="fas fa-tint fa-3x"></i></i> <br>Humidity </div>
+              <div class="col-xs-6">
+                <div class="text-temp"> <?php sleep(1); echo "$huminnen" . "$hum"; ?> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
         </div>
                  <!-- /. ROW  -->
@@ -132,20 +160,7 @@ font-size: 16px;"> Berlin seid ihr gut drauf &nbsp; <a href="#" class="btn btn-w
                  <!-- /. ROW  -->
                 <div class="row">
 
-                  <div class="col-md-3 col-sm-12 col-xs-12 ">
-                    <div class="panel ">
-                      <div class="main-temp-back1">
-                        <div class="panel-body">
-                          <div class="row">
-                            <div class="col-xs-6"> <i class="fas fa-thermometer-three-quarters fa-3x"></i> <br>Außen </div>
-                            <div class="col-xs-6">
-                              <div class="text-temp"> <?php sleep(1); echo "$temppausen" . "$temp"; ?> </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+
 
                 </div>
                  <!-- /. ROW  -->
