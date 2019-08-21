@@ -45,9 +45,6 @@ font-size: 16px;"> Berlin seid ihr gut drauf &nbsp; <a href="#" class="btn btn-w
                     <li>
                         <a class="active-menu"  href="index.html"><i class="fa fa-dashboard fa-3x"></i> Dashboard</a>
                     </li>
-                     <li>
-                        <a  href="ui.html"><i class="fa fa-desktop fa-3x"></i> UI Elements</a>
-                    </li>
                     <li>
                         <a  href="tab-panel.html"><i class="fa fa-qrcode fa-3x"></i> Tabs & Panels</a>
                     </li>
